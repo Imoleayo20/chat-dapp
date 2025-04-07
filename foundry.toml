@@ -3,4 +3,9 @@ src = "src"
 out = "out"
 libs = ["lib"]
 
-# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+# [compiler]
+# solc_version = "0.8.0"
+
+# [deployer]
+#PRIVATE_KEY=0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80
+#RPC_URL =https://eth-sepolia.g.alchemy.com/v2/VhMgOgS3B7Yu24LkgA4gXq7QSTixJ8Kd
